@@ -1,0 +1,16 @@
+C:\Users\jacek\OneDrive\Desktop\C#\NumberGuesserApp\NumberGuesserApp\obj\Debug\net5.0\NumberGuesserApp.csproj.AssemblyReference.cache
+C:\Users\jacek\OneDrive\Desktop\C#\NumberGuesserApp\NumberGuesserApp\obj\Debug\net5.0\NumberGuesserApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacek\OneDrive\Desktop\C#\NumberGuesserApp\NumberGuesserApp\obj\Debug\net5.0\NumberGuesserApp.AssemblyInfoInputs.cache
+C:\Users\jacek\OneDrive\Desktop\C#\NumberGuesserApp\NumberGuesserApp\obj\Debug\net5.0\NumberGuesserApp.AssemblyInfo.cs
+C:\Users\jacek\OneDrive\Desktop\C#\NumberGuesserApp\NumberGuesserApp\obj\Debug\net5.0\NumberGuesserApp.csproj.CoreCompileInputs.cache
+C:\Users\jacek\OneDrive\Desktop\C#\NumberGuesserApp\NumberGuesserApp\bin\Debug\net5.0\NumberGuesserApp.exe
+C:\Users\jacek\OneDrive\Desktop\C#\NumberGuesserApp\NumberGuesserApp\bin\Debug\net5.0\NumberGuesserApp.deps.json
+C:\Users\jacek\OneDrive\Desktop\C#\NumberGuesserApp\NumberGuesserApp\bin\Debug\net5.0\NumberGuesserApp.runtimeconfig.json
+C:\Users\jacek\OneDrive\Desktop\C#\NumberGuesserApp\NumberGuesserApp\bin\Debug\net5.0\NumberGuesserApp.runtimeconfig.dev.json
+C:\Users\jacek\OneDrive\Desktop\C#\NumberGuesserApp\NumberGuesserApp\bin\Debug\net5.0\NumberGuesserApp.dll
+C:\Users\jacek\OneDrive\Desktop\C#\NumberGuesserApp\NumberGuesserApp\bin\Debug\net5.0\ref\NumberGuesserApp.dll
+C:\Users\jacek\OneDrive\Desktop\C#\NumberGuesserApp\NumberGuesserApp\bin\Debug\net5.0\NumberGuesserApp.pdb
+C:\Users\jacek\OneDrive\Desktop\C#\NumberGuesserApp\NumberGuesserApp\obj\Debug\net5.0\NumberGuesserApp.dll
+C:\Users\jacek\OneDrive\Desktop\C#\NumberGuesserApp\NumberGuesserApp\obj\Debug\net5.0\ref\NumberGuesserApp.dll
+C:\Users\jacek\OneDrive\Desktop\C#\NumberGuesserApp\NumberGuesserApp\obj\Debug\net5.0\NumberGuesserApp.pdb
+C:\Users\jacek\OneDrive\Desktop\C#\NumberGuesserApp\NumberGuesserApp\obj\Debug\net5.0\NumberGuesserApp.genruntimeconfig.cache
